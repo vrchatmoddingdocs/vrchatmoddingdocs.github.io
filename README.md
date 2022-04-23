@@ -1,6 +1,8 @@
 
 # VRChat Photon API Docs
 
+API Docs for VRChats PUN API Config
+
 This repo is a collection of things I and other Dev's close to me have documented over the years.
 
 It will be updated on my freetime and will have it's own swagger.io page eventually
