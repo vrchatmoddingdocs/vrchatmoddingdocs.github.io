@@ -33,11 +33,7 @@ See https://doc.photonengine.com/en-us/pun/current/gameplay/rpcsandraiseevent#ra
 |208. Assign Master|
 |209. Request Ownership Transfer|
 |210. Ownership Transfer|
-|223. AuthenticationValues|
-|226. Join Room|
-|230. PUN Authentication|
-|252. Set Properties|
-|253. Update Properties|
+
 
 
 
@@ -46,7 +42,19 @@ See https://doc.photonengine.com/en-us/pun/current/gameplay/rpcsandraiseevent#ra
 Nothing to see here yet :)
 
 ## OperationCodes
-Nothing to see here yet :)
+
+See: https://doc-api.photonengine.com/en/pun/v1/class_operation_code.html#details for more details
+
+PUN uses these contants interally and should be universal between most games
+
+| Event Code      | Description |
+| ----------- | ----------- |
+
+|223. AuthenticationValues|
+|226. Join Room|
+|230. PUN Authentication|
+|252. Set Properties|
+|253. Update Properties|
 
 ## Example Code / Code Snippits
 Nothing to see here yet :)
