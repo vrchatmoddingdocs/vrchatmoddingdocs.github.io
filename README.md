@@ -49,7 +49,6 @@ PUN uses these contants interally and should be universal between most games
 
 | Event Code      | Description |
 | ----------- | ----------- |
-
 |223. AuthenticationValues|
 |226. Join Room|
 |230. PUN Authentication|
