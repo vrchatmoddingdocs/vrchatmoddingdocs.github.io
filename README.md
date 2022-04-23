@@ -20,7 +20,7 @@ See https://doc.photonengine.com/en-us/pun/current/gameplay/rpcsandraiseevent#ra
 |2. Executive Messages  |  System plugin messages
 |6. VRCEvent|Used for sending Remote Procedure Calls (RPC) datatype is an array of bytes|
 |8. Interest Management/Update Quality|
-|7. Serialization/Unreliable|Object and Movement Sync takes an array of bytes |
+|7. SerializationUnreliable|Object and Movement Sync takes an array of bytes |
 |9. SDK3 Avatar Syncronization
 |33. Player Moderations|Takes a <byte, Object> dictionary and is targeted|
 |60. PhysBones |
