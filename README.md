@@ -70,6 +70,7 @@ Nothing to see here yet :)
 
 Contributions are always welcome!
 
+If you would like to be a collaborator please message me on discord! tope#0001
 
 Please follow basic common sense principles and remain respectful.
 
