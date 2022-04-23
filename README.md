@@ -11,6 +11,8 @@ Currently only a list of events will be provided until I free up time with my ot
 ## Events
 Events are described by using an event code which are described by a byte value (0-255), and their context can be anything that PUN can serialize.
 
+See https://doc.photonengine.com/en-us/pun/current/gameplay/rpcsandraiseevent#raiseevent for more info
+
 
 | Event Code      | Description |
 | ----------- | ----------- |
