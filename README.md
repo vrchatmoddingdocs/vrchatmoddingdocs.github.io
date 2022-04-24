@@ -58,7 +58,8 @@ PUN uses these contants interally and should be universal between most games
 |253    | Update Properties     |               |
 
 ## Example Code / Code Snippits
-Nothing to see here yet :)
+
+[See Here!](Code-Snippets/Readme.md)
 
 
 
