@@ -9,7 +9,7 @@ If you would like to contribute please feel free to make a pull request on the g
 # Documentation
 ## Events
 Events are described by using an event code which are described by a byte value (0-255), and their context can be anything that PUN can serialize.
-See https://doc.photonengine.com/en-us/pun/current/gameplay/rpcsandraiseevent#raiseevent for more info
+[Click Here for more Info!](https://doc.photonengine.com/en-us/pun/current/gameplay/rpcsandraiseevent#raiseevent)
 
 | Event Code | Human-Readable Name | Other Name | Description |
 | ----------- | ----------- | ----------- | ----------- |
@@ -46,8 +46,7 @@ See https://doc.photonengine.com/en-us/pun/current/gameplay/rpcsandraiseevent#ra
 Nothing to see here yet :)
 
 ## OperationCodes
-All descriptions are taken from the below link
-See: https://doc-api.photonengine.com/en/pun/v1/class_operation_code.html#details for more details on operation codes
+[Click Here for more Info!](https://doc-api.photonengine.com/en/pun/v1/class_operation_code.html#details)
 PUN uses these operation code constants interally and should be universal between most games
 
 
