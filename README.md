@@ -50,18 +50,34 @@ See https://doc.photonengine.com/en-us/pun/current/gameplay/rpcsandraiseevent#ra
 Nothing to see here yet :)
 
 ## OperationCodes
+All descriptions are taken from the below link
+See: https://doc-api.photonengine.com/en/pun/v1/class_operation_code.html#details for more details on operation codes
+PUN uses these operation code constants interally and should be universal between most games
 
-See: https://doc-api.photonengine.com/en/pun/v1/class_operation_code.html#details for more details
 
-PUN uses these contants interally and should be universal between most games
 
 | Event Code  | Name | Description |
 | ----------- | ----------- | ----------- |
-|223    | AuthenticationValues  |               |
-|226    | Join Room             |               |
-|230    | PUN Authentication    |               |
-|252    | Set Properties        |               |
-|253    | Update Properties     |               |
+|217    | GetGameList           | Get the game list matching a supplied sql filter (SqlListLobby only)                          | 
+|218    | SetServerSettings     | Operation to set some server settings. Used with different parameters on various servers      |
+|219    | WebRpc                | WebRPC Operation                                                                              |
+|220    | GetRegions            | Get list of regional servers from a NameServer.                                               |
+|221    | GetLobbyStats         | Request statistics about a specific list of lobbies (their user and game count).              |
+|222    | FindFriends           | Request the rooms and online status for a list of friends (by name, which should be unique).  |
+|223    | AuthenticationValues  |                                                                       |
+|226    | JoinGame              | Join game (by name)                                                   |
+|227    | CreateGame            | Creates a game (or fails if name exists)                              |
+|228    | LeaveLobby            | Leaves lobby (on master)                                              |
+|229    | JoinLobby             | Joins Lobby (on master)                                               |
+|230    | Authenticate          | Authenticates this peer and connects to a virtual application         |
+|231    | AuthenticateOnce      | Authenticates this peer and connects to a virtual application         |
+|248    | ChangeGroups          | Operation code to change interest groups in Rooms (Lite application and extending ones). |
+|250    | ExchangeKeysForEncryption|                                                                    |
+|251    | GetProperties         | Get Properties                                                        |
+|252    | SetProperties         | Set Properties                                                        |
+|253    | UpdateProperties      | Update Properties                                                     |
+|254    | Leave                 | Code for OpLeave, to get out of a Room                                |
+|255    | Join                  | Code for OpJoin,  to get into a room.                                 |      
 
 ## Example Code / Code Snippits
 
