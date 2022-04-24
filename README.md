@@ -78,7 +78,7 @@ PUN uses these operation code constants interally and should be universal betwee
 |252    | SetProperties         | Set Properties                                                        |
 |253    | UpdateProperties      | Update Properties                                                     |
 |254    | Leave                 | Code for OpLeave, to get out of a Room                                |
-|255    | Join                  | Code for OpJoin,  to get into a room.                                 |      
+|255 / ByteMaxValue   | Join                  | Code for OpJoin,  to get into a room.                                 |      
 
 
 ## Example Code / Code Snippits
