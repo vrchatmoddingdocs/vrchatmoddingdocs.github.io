@@ -31,6 +31,7 @@ See https://doc.photonengine.com/en-us/pun/current/gameplay/rpcsandraiseevent#ra
 | 35 | HeartBeat                        |                                   |                                                                              |
 | 40 | Avatar Refresh                   |                                   |                                                                              |
 | 60 | PhysBones                        |                                   |                                                                              |
+| 69 | BestEvent                        |                                   |    Best Photon Event  |
 | 200 | SendSerialize                   |                                   |                                                                              |
 | 202 | PUN Object Instantiation        |                                   |                                                                              |
 | 203 | Terminate PUN Connection        |                                   |                                                                              |
@@ -78,6 +79,7 @@ PUN uses these operation code constants interally and should be universal betwee
 |253    | UpdateProperties      | Update Properties                                                     |
 |254    | Leave                 | Code for OpLeave, to get out of a Room                                |
 |255    | Join                  | Code for OpJoin,  to get into a room.                                 |      
+
 
 ## Example Code / Code Snippits
 
