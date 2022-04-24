@@ -49,13 +49,13 @@ See: https://doc-api.photonengine.com/en/pun/v1/class_operation_code.html#detail
 
 PUN uses these contants interally and should be universal between most games
 
-| Event Code      | Description |
-| ----------- | ----------- |
-|223. AuthenticationValues|
-|226. Join Room|
-|230. PUN Authentication|
-|252. Set Properties|
-|253. Update Properties|
+| Event Code  | Name | Description |
+| ----------- | ----------- | ----------- |
+|223    | AuthenticationValues  |               |
+|226    | Join Room             |               |
+|230    | PUN Authentication    |               |
+|252    | Set Properties        |               |
+|253    | Update Properties     |               |
 
 ## Example Code / Code Snippits
 Nothing to see here yet :)
