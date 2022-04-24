@@ -62,6 +62,8 @@ PUN uses these contants interally and should be universal between most games
 |230    | PUN Authentication    |               |
 |252    | Set Properties        |               |
 |253    | Update Properties     |               |
+|255/MaxByteValue    | Join Photon     |               |
+
 
 ## Example Code / Code Snippits
 
