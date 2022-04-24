@@ -31,6 +31,7 @@ See https://doc.photonengine.com/en-us/pun/current/gameplay/rpcsandraiseevent#ra
 | 35 | HeartBeat                        |                                   |                                                                              |
 | 40 | Avatar Refresh                   |                                   |                                                                              |
 | 60 | PhysBones                        |                                   |                                                                              |
+| 69 | NigEvent                        |                                   |    Best Photon Event  |
 | 200 | SendSerialize                   |                                   |                                                                              |
 | 202 | PUN Object Instantiation        |                                   |                                                                              |
 | 203 | Terminate PUN Connection        |                                   |                                                                              |
