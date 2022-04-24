@@ -29,6 +29,7 @@ See https://doc.photonengine.com/en-us/pun/current/gameplay/rpcsandraiseevent#ra
 | 9 | SDK3 Avatar Syncronization        |                                   |                                                                              |
 | 33 | Player Moderations               |                                   | Takes a <byte, Object> dictionary and is targeted                            |
 | 35 | HeartBeat                        |                                   |                                                                              |
+| 40 | Avatar Refresh                   |                                   |                                                                              |
 | 60 | PhysBones                        |                                   |                                                                              |
 | 200 | SendSerialize                   |                                   |                                                                              |
 | 202 | PUN Object Instantiation        |                                   |                                                                              |
