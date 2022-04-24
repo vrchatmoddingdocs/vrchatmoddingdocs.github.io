@@ -59,7 +59,7 @@ PUN uses these contants interally and should be universal between most games
 
 ## Example Code / Code Snippits
 
-[See Here!](Code-Snippets/Readme.md)
+[Click Here!](Code-Snippets/)
 
 
 
