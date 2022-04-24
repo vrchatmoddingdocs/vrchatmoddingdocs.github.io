@@ -1,20 +1,15 @@
 
 # VRChat Photon API Docs
+ 
+Welcome to the VRChat PUN Docs!
+This page will be  updated on my freetime with the help of other contributers and team members, you can expect documentation on Event Codes, Operation Codes, RPC's, and even Code Snippets!
+If you would like to contribute please feel free to make a pull request on the github!
 
-API Docs for VRChats PUN API Config
-
-This repo is a collection of things I and other Dev's close to me have documented over the years.
-
-It will be updated on my freetime and will have it's own github.io page eventually
-
-Currently only a list of events will be provided until I free up time with my other projects
 
 # Documentation
 ## Events
 Events are described by using an event code which are described by a byte value (0-255), and their context can be anything that PUN can serialize.
-
 See https://doc.photonengine.com/en-us/pun/current/gameplay/rpcsandraiseevent#raiseevent for more info
-
 
 | Event Code | Human-Readable Name | Other Name | Description |
 | ----------- | ----------- | ----------- | ----------- |
@@ -56,7 +51,6 @@ See: https://doc-api.photonengine.com/en/pun/v1/class_operation_code.html#detail
 PUN uses these operation code constants interally and should be universal between most games
 
 
-
 | Event Code  | Name | Description |
 | ----------- | ----------- | ----------- |
 |217    | GetGameList           | Get the game list matching a supplied sql filter (SqlListLobby only)                          | 
@@ -85,9 +79,7 @@ PUN uses these operation code constants interally and should be universal betwee
 
 [Click Here!](Code-Snippets/)
 
-
-
-        
+       
 ## Why am I getting banned?
 
 VRChat for the most part only has one automated system for bans, and that is through photon, so please be careful when trying anything out, or use an alt account & a vpn.
