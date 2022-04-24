@@ -5,11 +5,12 @@ Welcome to the VRChat PUN Docs!
 This page will be  updated on my freetime with the help of other contributers and team members, you can expect documentation on Event Codes, Operation Codes, RPC's, and even Code Snippets!
 If you would like to contribute please feel free to make a pull request on the github!
 
-
 # Documentation
+
 ## Events
-Events are described by using an event code which are described by a byte value (0-255), and their context can be anything that PUN can serialize.
+
 [Click Here for more Info!](https://doc.photonengine.com/en-us/pun/current/gameplay/rpcsandraiseevent#raiseevent)
+Events are described by using an event code which are described by a byte value (0-255), and their context can be anything that PUN can serialize.
 
 | Event Code | Human-Readable Name | Other Name | Description |
 | ----------- | ----------- | ----------- | ----------- |
@@ -46,9 +47,9 @@ Events are described by using an event code which are described by a byte value 
 Nothing to see here yet :)
 
 ## OperationCodes
+
 [Click Here for more Info!](https://doc-api.photonengine.com/en/pun/v1/class_operation_code.html#details)
 PUN uses these operation code constants interally and should be universal between most games
-
 
 | Event Code  | Name | Description |
 | ----------- | ----------- | ----------- |
