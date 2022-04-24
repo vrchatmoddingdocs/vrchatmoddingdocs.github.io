@@ -19,12 +19,16 @@ See https://doc.photonengine.com/en-us/pun/current/gameplay/rpcsandraiseevent#ra
 | Event Code | Human-Readable Name | Other Name | Description |
 | ----------- | ----------- | ----------- | ----------- |
 | 1 | Uspeak                            |                                   | Used for sending voice data,  takes an array of bytes as it's datatype        |
-| 2 | Executive Messages                | Kick message                      | System plugin messages                                                        |
+| 2 | Executive Messages                | Kick message                      | System plugin messages         
+|
+| 5 | MasterClientSyncFinished          |                                   |
+|
 | 6 | VRCEvent                          |                                   | Used for sending Remote Procedure Calls (RPC) datatype is an array of bytes   |
 | 8 | Interest Management/Update Quality|                                   |                                                                               |
 | 7 | SerializationUnreliable           | FloatBufferNetworkSerializer      | Object and Movement Sync takes an array of bytes                              |
 | 9 | SDK3 Avatar Syncronization        |                                   |                                                                               |
 | 33 | Player Moderations               |                                   | Takes a <byte, Object> dictionary and is targeted                             |
+| 35 | HeartBeat                        |                                   |                                                                                |
 | 60 | PhysBones                        |                                   |                                                                               |
 | 200 | SendSerialize                   |                                   |                                                                               |
 | 202 | PUN Object Instantiation        |                                   |                                                                               |
@@ -32,6 +36,7 @@ See https://doc.photonengine.com/en-us/pun/current/gameplay/rpcsandraiseevent#ra
 | 204 | Destroy PUN Object              |                                   |                                                                               |
 | 205 | Clear RPC Cache                 |                                   |                                                                               |
 | 206 | SendSerializeReliable           |                                   |                                                                               |
+| 207 |  Destroy Player                 |                                   |                                                                               |
 | 208 | Assign Master                   |                                   |                                                                               |
 | 209 | Request Ownership Transfer      |                                   |                                                                               |
 | 210 | Ownership Transfer              |                                   |                                                                               |
