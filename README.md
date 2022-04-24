@@ -20,6 +20,7 @@ See https://doc.photonengine.com/en-us/pun/current/gameplay/rpcsandraiseevent#ra
 | ----------- | ----------- | ----------- | ----------- |
 | 1 | Uspeak                            |                                   | Used for sending voice data,  takes an array of bytes as it's datatype       |
 | 2 | Executive Messages                | Kick message                      | System plugin messages                                                       |
+| 4 | Cached Event                      |                                   |                                                                              |
 | 5 | MasterClientSyncFinished          |                                   |                                                                              |
 | 6 | VRCEvent                          |                                   | Used for sending Remote Procedure Calls (RPC) datatype is an array of bytes  |
 | 8 | Interest Management/Update Quality|                                   |                                                                              |
