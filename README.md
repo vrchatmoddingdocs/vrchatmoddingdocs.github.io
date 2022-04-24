@@ -64,7 +64,16 @@ PUN uses these contants interally and should be universal between most games
 
 
         
+## Why am I getting banned?
 
+VRChat for the most part only has one automated system for bans, and that is through photon, so please be careful when trying anything out, or use an alt account & a vpn.
+
+These are some frequest causes for bans when interacting with photon on VRChat, please double check everything is correct before you attempt anything in-game.
+
+- You are sending an incorrect datatype
+- EventOptions paramaters are invalid
+- You are surpassing a ratelimit
+- You are sending impossible data (EX: Null data through Uspeak/Event 1)
 
 
 ## Contributing
