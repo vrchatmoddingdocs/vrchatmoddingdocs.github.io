@@ -39,7 +39,7 @@ See https://doc.photonengine.com/en-us/pun/current/gameplay/rpcsandraiseevent#ra
 | 207 |  Destroy Player                 |                                   |                                                                               |
 | 208 | Assign Master                   |                                   |                                                                               |
 | 209 | Request Ownership Transfer      |                                   |                                                                               |
-| 210 | Ownership Transfer              |                                   |                                                                               |
+| 210 | Ownership Transfer              |                                   |                                                                               
 
 
 
