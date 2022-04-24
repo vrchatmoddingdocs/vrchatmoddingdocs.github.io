@@ -16,25 +16,25 @@ Events are described by using an event code which are described by a byte value 
 See https://doc.photonengine.com/en-us/pun/current/gameplay/rpcsandraiseevent#raiseevent for more info
 
 
-| Event Code      | Description |
-| ----------- | ----------- |
-| 1. Uspeak      | Used for sending voice data,  takes an array of bytes as it's datatype       |
-|2. Executive Messages  |  System plugin messages
-|6. VRCEvent|Used for sending Remote Procedure Calls (RPC) datatype is an array of bytes|
-|8. Interest Management/Update Quality|
-|7. SerializationUnreliable|Object and Movement Sync takes an array of bytes |
-|9. SDK3 Avatar Syncronization
-|33. Player Moderations|Takes a <byte, Object> dictionary and is targeted|
-|60. PhysBones |
-|200. SendSerialize|
-|202. PUN Object Instantiation|
-|203. Terminate PUN Connection|
-|204. Destroy PUN Object |
-|205. Clear RPC Cache|
-|206. SendSerializeReliable|
-|208. Assign Master|
-|209. Request Ownership Transfer|
-|210. Ownership Transfer|
+| Event Code | Human-Readable Name | Internal Name | Description |
+| ----------- | ----------- | ----------- | ----------- |
+| 1 | Uspeak                            |       | Used for sending voice data,  takes an array of bytes as it's datatype        |
+| 2 | Executive Messages                |       | System plugin messages                                                        |
+| 6 | VRCEvent                          |       | Used for sending Remote Procedure Calls (RPC) datatype is an array of bytes   |
+| 8 | Interest Management/Update Quality|       |                                                                               |
+| 7 | SerializationUnreliable           |       | Object and Movement Sync takes an array of bytes                              |
+| 9 | SDK3 Avatar Syncronization        |       |                                                                               |
+| 33 | Player Moderations               |       | Takes a <byte, Object> dictionary and is targeted                             |
+| 60 | PhysBones                        |       |                                                                               |
+| 200 | SendSerialize                   |       |                                                                               |
+| 202 | PUN Object Instantiation        |       |                                                                               |
+| 203 | Terminate PUN Connection        |       |                                                                               |
+| 204 | Destroy PUN Object              |       |                                                                               |
+| 205 | Clear RPC Cache                 |       |                                                                               |
+| 206 | SendSerializeReliable           |       |                                                                               |
+| 208 | Assign Master                   |       |                                                                               |
+| 209 | Request Ownership Transfer      |       |                                                                               |
+| 210 | Ownership Transfer              |       |                                                                               |
 
 
 
