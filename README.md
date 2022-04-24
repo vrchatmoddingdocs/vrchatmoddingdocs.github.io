@@ -16,10 +16,10 @@ Events are described by using an event code which are described by a byte value 
 See https://doc.photonengine.com/en-us/pun/current/gameplay/rpcsandraiseevent#raiseevent for more info
 
 
-| Event Code | Human-Readable Name | Internal Name | Description |
+| Event Code | Human-Readable Name | Other Name | Description |
 | ----------- | ----------- | ----------- | ----------- |
 | 1 | Uspeak                            |                                   | Used for sending voice data,  takes an array of bytes as it's datatype        |
-| 2 | Executive Messages                |                                   | System plugin messages                                                        |
+| 2 | Executive Messages                | Kick message                      | System plugin messages                                                        |
 | 6 | VRCEvent                          |                                   | Used for sending Remote Procedure Calls (RPC) datatype is an array of bytes   |
 | 8 | Interest Management/Update Quality|                                   |                                                                               |
 | 7 | SerializationUnreliable           | FloatBufferNetworkSerializer      | Object and Movement Sync takes an array of bytes                              |
