@@ -1,5 +1,5 @@
 
-# VRChat Photon API Docs
+# VRChat Modding + Photon API Docs
 
 API Docs for VRChats PUN API Config
 
