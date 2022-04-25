@@ -1,8 +1,10 @@
 
-# VRChat Photon API Docs
+# VRChat Modding + Photon API Docs
  
-Welcome to the VRChat PUN Docs!
-This page will be  updated on my freetime with the help of other contributers and team members, you can expect documentation on Event Codes, Operation Codes, RPC's, and even Code Snippets!
+Welcome to the VRChat Modding Docs!
+
+This page will be  updated on my freetime with the help of other contributers and team members, you can expect documentation on Event Codes, Operation Codes, and even some basic Code Snippets!
+
 If you would like to contribute please feel free to make a pull request on the github!
 
 # Documentation
@@ -38,13 +40,6 @@ Events are described by using an event code which are described by a byte value 
 | 208 | Assign Master                   |                                   |                                                                              |
 | 209 | Request Ownership Transfer      |                                   |                                                                              |
 | 210 | Ownership Transfer              |                                   |                                                                              |                                                                 
-
-
-
-
-## RPC
-
-Nothing to see here yet :)
 
 ## OperationCodes
 
