@@ -1,5 +1,5 @@
 ---
-title: VRChat Modding Docs
+title: About
 layout: template
 filename: index
 --- 
