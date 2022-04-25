@@ -1,4 +1,7 @@
 
+![Smile](https://avatars.githubusercontent.com/u/104320096?s=400&u=650ef84abf1cf1a6fcd72b9cd9dbc037818640a0&v=4)
+
+
 # VRChat Modding + Photon API Docs
 
 API Docs for modding and information on VRChats PUN API Config
