@@ -1,5 +1,5 @@
 ---
-title: Awesome VRChat
+title: Awesome VRC Mods
 layout: template
 filename: awesome
 --- 
@@ -25,7 +25,7 @@ The VRC Modding Docs team is not responsible for any copyright content within th
 
 ## Contents
 
-- [Awesome Go](#awesome-vrchat)
+- [Awesome VRC Mods](#awesome-vrc-mods)
     - [Contents](#contents)
     - [Avatars and Assets](#avatars-and-assets)
     - [Open Source Clients](#open-source-clients)
