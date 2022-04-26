@@ -36,7 +36,7 @@ The VRC Modding Docs team is not responsible for any copyright content within th
 
   ## Avatars and Assets
 
-  _The best places to get great avatars and assets!s_
+  _The best places to get great avatars and assets!_
 
   - [VRCMods](https://vrcmods.com/) - The largest and most well known collection of assets and avatars
   - [Incognito.uno](https://incognito.uno/) - A great place to find free avatars and assets with great uptime!
