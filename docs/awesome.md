@@ -1,7 +1,7 @@
 ---
 title: Awesome VRChat
 layout: template
-filename: api
+filename: awesome
 --- 
 
 
