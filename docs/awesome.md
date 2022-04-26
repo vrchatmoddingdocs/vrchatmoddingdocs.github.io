@@ -15,7 +15,9 @@ The VRC Modding Docs team is not responsible for any copyright content within th
 
 - If you would like to contribute please open a features request under issues or a pull request! We gladly accept all contributions, so if you see anything interesting you would like added please be our guest!
 
-- If your client is obfuscated and would like your Client to be verified please reach out to tope#0001 on discord and he will take you through the verification process, full sourcecode NOT required. If your Client is unobfuscated would like it added just send a copy of the mod to tope#0001 on discord!
+- If your client is obfuscated and would like your Client to be verified please reach out to tope#0001 on discord and he will take you through the verification process, full sourcecode NOT required. 
+
+- If your Client is unobfuscated would like it added just send a copy of the mod to tope#0001 on discord!
 
 - If your content is already on github and would like to see it here, just open a features request under issues!
 
