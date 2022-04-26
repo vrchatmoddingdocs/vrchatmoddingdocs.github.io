@@ -28,6 +28,7 @@ The VRC Modding Docs team is not responsible for any copyright content within th
 - [Awesome VRC Mods](#awesome-vrc-mods)
     - [Contents](#contents)
     - [Avatars and Assets](#avatars-and-assets)
+    - [Modding Tools](#modding-tools)
     - [Open Source Clients](#open-source-clients)
     - [QoL Mods](#quality-of-life-mods)
     - [Verified Clients](#verified-clients)
@@ -43,7 +44,13 @@ The VRC Modding Docs team is not responsible for any copyright content within th
   - [VRCArena](https://www.vrcarena.com/) - If you are looking for furry avatars this is the place for you
   - [Booth](https://booth.pm/en) - Anime anyone? You can find many high quality paid anime models here.
   - [Gumroad](https://gumroad.com/) - Another great place to find HQ paid avatars! Not as many as booth, but more english friendly
-  
+
+  ## Modding Tools
+  - [Melonloader](https://melonwiki.xyz/#/?id=requirements) - The most used mod loader for VRChat
+  - [BepinEx](https://github.com/BepInEx/BepInEx/releases) - A good alternative if you don't want to use MelonLoader
+  - [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) - An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
+  - [DnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor, great for looking through VRC libs
+  - 
 
   ## Open Source Clients
 
