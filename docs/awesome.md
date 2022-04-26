@@ -59,6 +59,8 @@ The VRC Modding Docs team is not responsible for any copyright content within th
 
   _Verified Safe Clients for VRChat. Don't worry about safety anymore!_
 
+  - [Blaze's Client](https://discord.com/invite/BLAZESCLIENT) - Blaze is a very well reputable and trusted friend of mine and he makes great stuff! So go show him some support!
+
 
  
 
