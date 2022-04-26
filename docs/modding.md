@@ -5,7 +5,7 @@ filename: modding
 --- 
 
 # Melonloader
-For any help related to melonloader please visit <a href="https://melonwiki.xyz/#/modders/quickstart"> here </a>
+For any help related to <a href="https://github.com/LavaGang/MelonLoader/"> MelonLoader </a> please visit <a href="https://melonwiki.xyz/#/modders/quickstart"> here </a>
 
 
 ## Patching
