@@ -13,15 +13,15 @@ The VRC Modding Docs team is not responsible for any copyright content within th
 
 ## Contributing
 
-- If you would like to contribute please open a features request under issues or a pull request! We gladly accept all contributions, so if you see anything interesting you would like added please be our guest!
+- If you would like to contribute, please open a features request under issues or a pull request! We gladly accept all contributions, so if you see anything interesting you would like to add, please be our guest!
 
-- If your client is obfuscated and would like your Client to be verified please reach out to tope#0001 on discord and he will take you through the verification process, full sourcecode NOT required. 
+- If your client is obfuscated and would like your client to be verified, please reach out to tope#0001 on discord and he will take you through the verification process. Full sourcecode is NOT required.
 
-- If your Client is unobfuscated would like it added just send a copy of the mod to tope#0001 on discord!
+- If your client is unobfuscated, and you would like it added, just send a copy of the mod to tope#0001 on discord!
 
 - If your content is already on github and would like to see it here, just open a features request under issues!
 
-- If you would like your mod or client taken down please make a feautres request under the issues section with what you would like to be removed!
+- If you would like your mod or client taken down, please make a feature request under the issues section from which you would like to be removed!
 
 ## Contents
 
@@ -67,7 +67,7 @@ The VRC Modding Docs team is not responsible for any copyright content within th
 
   _Verified Safe Clients for VRChat. Don't worry about safety anymore!_
 
-  - [Blaze's Client](https://discord.com/invite/BLAZESCLIENT) - Blaze is a very well reputable and trusted friend of mine and he makes great stuff! So go show him some support!
+  - [Blaze's Client](https://discord.com/invite/BLAZESCLIENT) - Blaze is a very reputable and trusted friend of mine and he makes great stuff! So go show him some support!
 
 
  
