@@ -50,7 +50,6 @@ The VRC Modding Docs team is not responsible for any copyright content within th
   - [BepinEx](https://github.com/BepInEx/BepInEx/releases) - A good alternative if you don't want to use MelonLoader
   - [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) - An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
   - [DnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor, great for looking through VRC libs
-  - 
 
   ## Open Source Clients
 
